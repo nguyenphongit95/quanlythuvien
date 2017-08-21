@@ -15,7 +15,7 @@ $monhoc = $lessonObject->ListLesson();
     <table class="tb" border="1px" align="center" width="500px" cellspacing="0">
         <tr><td colspan="5" align="center"><h3>THÔNG TIN MÔN HỌC 2017</h3></td></tr>
         <tr>
-            <td width="20%">MÃ MÔN HỌC</td>
+            <td width="20%">MÃ MÔN</td>
             <td width="20%">TÊN MÔN HỌC</td>
             <td width="20%">SỐ TIẾT HỌC</td>
             <td width="20%">Img</td>
